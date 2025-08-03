@@ -1,8 +1,7 @@
 streamlit
-python-dotenv
-langchain==0.1.14
+langchain==0.0.310
 openai
 arxiv
 duckduckgo-search
 wikipedia-api
-requests
+python-dotenv
