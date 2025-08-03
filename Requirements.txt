@@ -1,13 +1,13 @@
 langchain
-langchain-core
-langchain-community
+langchain_core
+langchain_community
 langsmith
 
-langchain-openai
-langchain-huggingface
-langchain-chroma
-langchain-ollama
-langchain-groq
+langchain_openai
+langchain_huggingface
+langchain_chroma
+langchain_ollama
+langchain_groq
 
 openai
 huggingface_hub
@@ -36,3 +36,4 @@ mysql-connector-python
 SQLAlchemy
 
 streamlit
+
